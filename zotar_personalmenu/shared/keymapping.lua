@@ -1,0 +1,1 @@
+RegisterKeyMapping('personalmenu', 'Ouvrir le Menu Personnel', 'keyboard', 'F5')
